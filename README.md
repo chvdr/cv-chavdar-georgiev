@@ -122,4 +122,4 @@ IT Operations, UNIX Engineering, Linux Administration, DevOps Automation, Bash, 
 ---
 
 ## Languages
-Bulgarian • English • Serbian • Russian
+Bulgarian • English • Russian
