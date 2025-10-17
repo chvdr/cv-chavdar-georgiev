@@ -1,5 +1,4 @@
-[⬇️ Download PDF](./downloads/Chavdar-Georgiev.pdf)  
-[⬇️ Download Word version](./downloads/Chavdar-Georgiev.docx)
+[⬇️ Download PDF](./downloads/Chavdar-Georgiev.pdf) | [⬇️ Download Word version](./downloads/Chavdar-Georgiev.docx)
 
 ---
 
