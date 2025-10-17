@@ -1,4 +1,6 @@
-[⬇️ Download PDF](./downloads/Chavdar-Georgiev.pdf) | [⬇️ Download Word version](./downloads/Chavdar-Georgiev.docx)
+[⬇️ Download PDF](./downloads/Chavdar-Georgiev.pdf) | [⬇️ Download Word version](./downloads/Chavdar-Georgiev.docx)  
+![QR Code](./downloads/QR-CODE-LINK.png)
+> Scan to view or share this CV directly from GitHub
 
 ---
 
