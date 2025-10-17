@@ -1,5 +1,5 @@
 [⬇️ Download PDF](./downloads/Chavdar-Georgiev.pdf) | [⬇️ Download Word version](./downloads/Chavdar-Georgiev.docx)  
-![QR Code](./downloads/QR-CODE-LINK.png)
+<img src="./downloads/QR-CODE-LINK.png" alt="QR Code" width="100" height="100">  
 > Scan to view or share this CV directly from GitHub
 
 ---
