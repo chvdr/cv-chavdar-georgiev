@@ -1,6 +1,6 @@
 > **Senior DevOps & Cloud Engineer** — SAP BTP, Terraform, Vault, GitHub Enterprise, Infrastructure Automation, AWS/Azure Exposure
 
-[⬇️ Download PDF](./downloads/./downloads/Chavdar-Georgiev-Infosys-SAP-BTP.pdf) | [⬇️ Download Word version](./downloads/Chavdar-Georgiev-Infosys-SAP-BTP.docx)
+[⬇️ Download PDF](./downloads/Chavdar-Georgiev-Infosys-SAP-BTP.pdf) | [⬇️ Download Word version](./downloads/Chavdar-Georgiev-Infosys-SAP-BTP.docx)
 
 <p align="left">
   <img src="./downloads/QR-CODE-LINK.png" alt="QR Code" width="100" height="100"><br>
